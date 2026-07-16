@@ -1,0 +1,26 @@
+# Xilinx Vivado generated files
+*.jou
+*.log
+*.str
+*.bit
+*.bin
+*.ltx
+*.dcp
+*.xpr
+
+# Vivado project directories
+*.runs/
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.srcs/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.bak
+*~
